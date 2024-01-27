@@ -8,5 +8,21 @@
     "support": {
         "issues": "https://github.com/Torayld/flatpickr_js/pulls"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "extra": {
+    "component": {
+      "scripts": [
+        "dist/flatpickr.min.js"
+      ],
+      "styles": [
+        "dist/flatpickr.min.css"
+      ],
+      "files": [
+        "dist/l10n/*.js",
+        "dist/plugins/*.js",
+        "dist/plugins/*/*.js",
+        "dist/themes/*.css"
+      ]
+    }
+  }
 }
