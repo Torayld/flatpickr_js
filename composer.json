@@ -1,0 +1,12 @@
+{
+    "name": "torayld/flatpickr_js",
+    "type": "library",
+    "description": "flatpickr is a lightweight and powerful datetime picker.",
+    "keywords": [],
+    "homepage": "https://github.com/Torayld/flatpickr_js/",
+    "authors": ["flatpickr"],
+    "support": {
+        "issues": "https://github.com/Torayld/flatpickr_js/pulls"
+    },
+    "license": "MIT"
+}
